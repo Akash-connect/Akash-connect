@@ -1,26 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akash Jadhav</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web Apps & AI-Powered Products</h3>
-
----
-
 ## 💫 About Me
-
-I'm a **Full Stack Developer** focused on building practical, user-centered applications using **Python, Django, React, FastAPI, and SQL**.
-
-I enjoy turning ideas into real products — from backend APIs and database design to responsive frontend interfaces and deployment-ready applications.
-
-I’m also growing in **Generative AI**, exploring how to build intelligent applications using:
-- **LLMs**
-- **Prompt Engineering**
-- **NLP**
-- **Vector Search / RAG concepts**
-- **AI-powered product workflows**
-
-### What I focus on
-- Building **full stack web applications**
-- Designing **REST APIs** and backend systems
-- Solving real-world problems with **AI + software**
-- Writing cleaner code and shipping stronger projects
+Backend-focused Full Stack Developer using Python, Django, React, and FastAPI.  
+Building scalable web apps and AI-powered solutions (GenAI, NLP).
 
 ---
 
