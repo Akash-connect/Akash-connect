@@ -1,6 +1,6 @@
 ## 💫 About Me
-Backend-focused Full Stack Developer using Python, Django, React, and FastAPI.  
-Building scalable web apps and AI-powered solutions (GenAI, NLP).
+Full Stack Developer building web applications with Python, Django, and React.  
+Exploring Generative AI, LLMs, and intelligent system design.
 
 ---
 
