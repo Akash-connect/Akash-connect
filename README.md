@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Jadhav</h1>
 <h3 align="center">Full Stack Developer | Building Scalable Web Apps & AI-Powered Products</h3>
 
-<p align="center">
-  <a href="https://github.com/Akash-connect">
-    <img src="https://komarev.com/ghpvc/?username=Akash-connect&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-connect" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Akash-connect?tab=followers">
-    <img src="https://img.shields.io/github/followers/Akash-connect?label=Followers&style=for-the-badge" alt="followers" />
-  </a>
-  <a href="https://github.com/Akash-connect?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Building-blue?style=for-the-badge" alt="projects" />
-  </a>
-  <a href="mailto:aakasharunjadhav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="email" />
-  </a>
-</p>
-
 ---
 
 ## 💫 About Me
@@ -42,47 +24,6 @@ I’m also growing in **Generative AI**, exploring how to build intelligent appl
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Job Application Tracking System
-A full stack application to manage and track job applications efficiently.
-
-- Built with **Django, React, REST APIs, SQL**
-- Role-based workflow for managing application stages
-- Tracks lifecycle: **Applied → Shortlisted → Interview → Offer**
-- Focused on structured backend logic and usable UI
-
----
-
-### 🔹 Fake Review Detection System
-A machine learning project to detect suspicious or spam reviews.
-
-- Built using **Python, NLP, Scikit-learn**
-- Used **TF-IDF** and classification models
-- Designed to identify low-quality / fake textual reviews
-- Demonstrates ML pipeline thinking from preprocessing to prediction
-
----
-
-### 🔹 Customer Churn Analysis
-A data analytics project based on telecom customer behavior.
-
-- Built with **Python, Pandas, NumPy**
-- Performed cleaning, analysis, and pattern discovery
-- Identified factors influencing churn
-- Focused on business insights, not just charts
-
----
-
-### 🔹 AI / GenAI Direction
-Currently working toward stronger AI application projects such as:
-
-- AI-powered assistants
-- Resume / job matching systems
-- Document Q&A systems
-- GenAI-enabled productivity tools
-
----
 
 ## 🛠️ Tech Stack
 
