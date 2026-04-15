@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hi 👋, I'm Akash  <br>Python Full Stack Developer | AI Enthusiast
+## 🚀 About Me
+
+Hi 👋, I'm Akash Jadhav  
+
+- 💻 Python Developer with focus on **Full Stack Development & APIs**
+- 🤖 Exploring **Generative AI, LLMs, and NLP**
+- 🧠 Skilled in **Django, FastAPI, React, SQL**
+- 📊 Experience in **Data Analysis using Pandas, Power BI, Excel**
+- 🔥 Building real-world projects that solve practical problems  
+- 🎯 Goal: Become a **high-impact AI/Backend Engineer**
 
 
 ## 🌐 Socials:
