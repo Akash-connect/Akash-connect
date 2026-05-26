@@ -35,6 +35,10 @@ Building intelligent AI systems, scalable backend architectures, and production-
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/akash.raw__/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
